@@ -5,12 +5,12 @@ SonarQube docker build. (See docker-compose.yml)
 
 ## Instructions
     run `docker-compose -up -d`
-
+```
     In your browser, connect to http://127.0.0.1:9000
     Default
         Username = admin
         Password = admin
-
+```
 If you have Makefile installed, then use the command `make` to see a list of supported commands. For the most part, supported make commands are:
 ````
       help        Print help.
