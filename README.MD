@@ -4,7 +4,7 @@ Tutorial url: https://youtu.be/PgHIVt_S6PE
 SonarQube docker build. (See docker-compose.yml)
 
 ## Instructions
-    run `docker-compose -up -d`
+run `docker-compose -up -d`
 ```
     In your browser, connect to http://127.0.0.1:9000
     Default
